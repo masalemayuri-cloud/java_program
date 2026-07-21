@@ -5,6 +5,9 @@ public class switchexample
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your number in 5 muliple ");
         int num = sc.nextInt();
+
+    
+
         switch(num)
         {
             case 5:
