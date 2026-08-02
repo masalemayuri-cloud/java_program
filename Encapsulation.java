@@ -1,5 +1,6 @@
-class programmer{
+//Encapsulation program
 
+class programmer{
     private String name;
 
     public String getName(){return name;}
